@@ -1,6 +1,5 @@
 #Submitted by
 #Spurthi S - JUPG22MCA18520
-#Shreyas Rao T S - JUPG22MCA17494 
 #Activity - 1
 
 print("\n### Program to find Equivalence relation for a set ###\n")
@@ -94,5 +93,4 @@ CheckTransitive()
 print("Result ordered pair: ", orderedPair)
 
 #Submitted by
-#Shreyas Rao T S - JUPG22MCA17494 
 #Spurthi S - JUPG22MCA18520  
